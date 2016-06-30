@@ -1,0 +1,1 @@
+# Magebuzz_GoogleRichSnippet
