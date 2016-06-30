@@ -20,7 +20,11 @@
 
 ## Info
 
-Magebuzz Team – [http://www.magebuzz.com]
+R1403, N03 Building, 25 Lac Trung, Hai Ba Trung
+Hanoi 10000
+Vietnam
+Tel: +84 6 - 652 - 3435 | +84 98 835 - 8143
 
+Magebuzz Team – [http://www.magebuzz.com]
 [https://github.com/magebuzz?tab=repositories]
 
