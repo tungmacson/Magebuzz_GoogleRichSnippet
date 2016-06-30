@@ -1,14 +1,11 @@
 # Google Rich Snippet
 > Google Rich Snippets helps you highlight your products among search results of search engines by various types of rich snippets.
 
-[![Version 0.1.0]]
-
 
 * Highlight products in Google search results.
 * Support various type of rich snippets for products & categories.
 * Get more targeted traffic.
 * Easy to implement.
-
 
 
 ## Features
@@ -23,8 +20,7 @@
 
 ## Info
 
-Magebuzz Team – [@OurWebsite](http://www.magebuzz.com)
+Magebuzz Team – [http://www.magebuzz.com]
 
-
-[Our Github](https://github.com/magebuzz?tab=repositories)
+[https://github.com/magebuzz?tab=repositories]
 
